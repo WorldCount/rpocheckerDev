@@ -1,4 +1,5 @@
 rpocheckerDev
 =============
 
-Dev version rpochecker v.2
+Dev версия rpochecker v.2
+rpochecker - бесплатная программа для группы РПО Почты РФ. Проверяет файлы и исправляет ошибки в них.

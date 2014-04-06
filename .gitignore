@@ -1,0 +1,8 @@
+*.pyc
+test*.py*
+test.txt
+.idea/
+data/base.db
+sqlitebrowser/
+testfiles/
+*~
